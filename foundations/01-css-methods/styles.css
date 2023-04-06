@@ -1,0 +1,9 @@
+/* styling for exercise 1 index */
+
+div{
+    background-color: red;
+    color: white;
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+}
