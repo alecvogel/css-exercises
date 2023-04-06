@@ -1,0 +1,21 @@
+#oneID {
+    color:blue;
+    font-size: 36px;
+}
+
+#anotherID {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+
+}
+
+.allClass,
+.uniqueClass {
+    background-color: pink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.uniqueClass {
+    font-size: 24px;
+}
